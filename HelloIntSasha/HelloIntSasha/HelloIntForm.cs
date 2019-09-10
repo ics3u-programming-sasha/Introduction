@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Created by: Sasha Malko
+ * Created on: 10-Sep-2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #6 - Hello World International
+ * This program displays the greeting in different languages depending on which radio button is clicked. 
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
