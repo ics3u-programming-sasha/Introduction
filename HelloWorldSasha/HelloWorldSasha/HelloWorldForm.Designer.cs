@@ -76,7 +76,7 @@
             this.Controls.Add(this.lblName);
             this.Controls.Add(this.lblGreeting);
             this.Name = "framHelloWorld";
-            this.Text = "Hello World by Sasha";
+            this.Text = "Hello, World! by Sasha";
             ((System.ComponentModel.ISupportInitialize)(this.picBeach)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

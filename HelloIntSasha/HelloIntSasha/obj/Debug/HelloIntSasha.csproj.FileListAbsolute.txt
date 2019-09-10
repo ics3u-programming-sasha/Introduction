@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Introduction\HelloIntSasha\HelloIntSasha\bin\Debug\HelloIntSasha.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Introduction\HelloIntSasha\HelloIntSasha\bin\Debug\HelloIntSasha.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Introduction\HelloIntSasha\HelloIntSasha\bin\Debug\HelloIntSasha.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Introduction\HelloIntSasha\HelloIntSasha\obj\Debug\HelloIntSasha.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Introduction\HelloIntSasha\HelloIntSasha\obj\Debug\HelloIntSasha.frmHelloInt.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Introduction\HelloIntSasha\HelloIntSasha\obj\Debug\HelloIntSasha.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Introduction\HelloIntSasha\HelloIntSasha\obj\Debug\HelloIntSasha.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Introduction\HelloIntSasha\HelloIntSasha\obj\Debug\HelloIntSasha.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Introduction\HelloIntSasha\HelloIntSasha\obj\Debug\HelloIntSasha.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Introduction\HelloIntSasha\HelloIntSasha\obj\Debug\HelloIntSasha.pdb
