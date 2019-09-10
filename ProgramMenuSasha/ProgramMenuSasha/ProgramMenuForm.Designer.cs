@@ -30,12 +30,12 @@
         {
             this.lblTeam = new System.Windows.Forms.Label();
             this.lblPlayer = new System.Windows.Forms.Label();
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.mnuProgram = new System.Windows.Forms.MenuStrip();
             this.mniProgram = new System.Windows.Forms.ToolStripMenuItem();
             this.mniExit = new System.Windows.Forms.ToolStripMenuItem();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.menuStrip1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.picLogo = new System.Windows.Forms.PictureBox();
+            this.mnuProgram.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.picLogo)).BeginInit();
             this.SuspendLayout();
             // 
             // lblTeam
@@ -61,16 +61,16 @@
             this.lblPlayer.TabIndex = 1;
             this.lblPlayer.Text = "Lionel Messi";
             // 
-            // menuStrip1
+            // mnuProgram
             // 
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.mnuProgram.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.mniProgram});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(800, 24);
-            this.menuStrip1.TabIndex = 2;
-            this.menuStrip1.Text = "mnuMenu";
-            this.menuStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.MenuStrip1_ItemClicked);
+            this.mnuProgram.Location = new System.Drawing.Point(0, 0);
+            this.mnuProgram.Name = "mnuProgram";
+            this.mnuProgram.Size = new System.Drawing.Size(800, 24);
+            this.mnuProgram.TabIndex = 2;
+            this.mnuProgram.Text = "mnuMenu";
+            this.mnuProgram.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.MenuStrip1_ItemClicked);
             // 
             // mniProgram
             // 
@@ -83,18 +83,18 @@
             // mniExit
             // 
             this.mniExit.Name = "mniExit";
-            this.mniExit.Size = new System.Drawing.Size(93, 22);
+            this.mniExit.Size = new System.Drawing.Size(180, 22);
             this.mniExit.Text = "Exit";
             this.mniExit.Click += new System.EventHandler(this.MniExit_Click);
             // 
-            // pictureBox1
+            // picLogo
             // 
-            this.pictureBox1.Image = global::ProgramMenuSasha.Properties.Resources.soccer3;
-            this.pictureBox1.Location = new System.Drawing.Point(79, 86);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(264, 279);
-            this.pictureBox1.TabIndex = 3;
-            this.pictureBox1.TabStop = false;
+            this.picLogo.Image = global::ProgramMenuSasha.Properties.Resources.soccer3;
+            this.picLogo.Location = new System.Drawing.Point(79, 86);
+            this.picLogo.Name = "picLogo";
+            this.picLogo.Size = new System.Drawing.Size(264, 279);
+            this.picLogo.TabIndex = 3;
+            this.picLogo.TabStop = false;
             // 
             // frmProgramMenu
             // 
@@ -102,16 +102,16 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.picLogo);
             this.Controls.Add(this.lblPlayer);
             this.Controls.Add(this.lblTeam);
-            this.Controls.Add(this.menuStrip1);
-            this.MainMenuStrip = this.menuStrip1;
+            this.Controls.Add(this.mnuProgram);
+            this.MainMenuStrip = this.mnuProgram;
             this.Name = "frmProgramMenu";
             this.Text = "Program Menu by Sasha";
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.mnuProgram.ResumeLayout(false);
+            this.mnuProgram.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.picLogo)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -121,10 +121,10 @@
 
         private System.Windows.Forms.Label lblTeam;
         private System.Windows.Forms.Label lblPlayer;
-        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.MenuStrip mnuProgram;
         private System.Windows.Forms.ToolStripMenuItem mniProgram;
         private System.Windows.Forms.ToolStripMenuItem mniExit;
-        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox picLogo;
     }
 }
 

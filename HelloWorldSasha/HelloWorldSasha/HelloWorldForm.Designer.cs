@@ -1,6 +1,6 @@
 ﻿namespace HelloWorldSasha
 {
-    partial class framHelloWorld
+    partial class frmHelloWorld
     {
         /// <summary>
         /// Required designer variable.
@@ -66,7 +66,7 @@
             this.picBeach.TabIndex = 2;
             this.picBeach.TabStop = false;
             // 
-            // framHelloWorld
+            // frmHelloWorld
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -75,7 +75,7 @@
             this.Controls.Add(this.picBeach);
             this.Controls.Add(this.lblName);
             this.Controls.Add(this.lblGreeting);
-            this.Name = "framHelloWorld";
+            this.Name = "frmHelloWorld";
             this.Text = "Hello, World! by Sasha";
             ((System.ComponentModel.ISupportInitialize)(this.picBeach)).EndInit();
             this.ResumeLayout(false);

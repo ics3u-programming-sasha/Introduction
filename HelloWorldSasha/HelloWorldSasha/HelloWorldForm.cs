@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace HelloWorldSasha
 {
-    public partial class framHelloWorld : Form
+    public partial class frmHelloWorld : Form
     {
-        public framHelloWorld()
+        public frmHelloWorld()
         {
             InitializeComponent();
         }

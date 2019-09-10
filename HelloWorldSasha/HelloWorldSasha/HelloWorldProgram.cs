@@ -16,7 +16,7 @@ namespace HelloWorldSasha
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new framHelloWorld());
+            Application.Run(new frmHelloWorld());
         }
     }
 }
