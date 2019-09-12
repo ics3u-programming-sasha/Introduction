@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Introduction\PerAreaVolSashaM\PerAreaVolSashaM\bin\Debug\PerAreaVolSashaM.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Introduction\PerAreaVolSashaM\PerAreaVolSashaM\bin\Debug\PerAreaVolSashaM.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Introduction\PerAreaVolSashaM\PerAreaVolSashaM\bin\Debug\PerAreaVolSashaM.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Introduction\PerAreaVolSashaM\PerAreaVolSashaM\obj\Debug\PerAreaVolSashaM.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Introduction\PerAreaVolSashaM\PerAreaVolSashaM\obj\Debug\PerAreaVolSashaM.frmPerAreaVol.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Introduction\PerAreaVolSashaM\PerAreaVolSashaM\obj\Debug\PerAreaVolSashaM.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Introduction\PerAreaVolSashaM\PerAreaVolSashaM\obj\Debug\PerAreaVolSashaM.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Introduction\PerAreaVolSashaM\PerAreaVolSashaM\obj\Debug\PerAreaVolSashaM.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Introduction\PerAreaVolSashaM\PerAreaVolSashaM\obj\Debug\PerAreaVolSashaM.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Introduction\PerAreaVolSashaM\PerAreaVolSashaM\obj\Debug\PerAreaVolSashaM.pdb

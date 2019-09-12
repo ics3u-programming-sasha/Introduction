@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B626ED43-8191-4E22-BC13-C706DBB2E559}</ProjectGuid>
+    <ProjectGuid>{1A1E1C09-8BC9-4417-B126-0A04D1F38DAA}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>PerAreaVolSashaM</RootNamespace>
     <AssemblyName>PerAreaVolSashaM</AssemblyName>

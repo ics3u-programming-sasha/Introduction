@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace PerAreaVolSashaM
 {
-    static class frmPerAreaVol
+    static class PerAreaVol
     {
         /// <summary>
         /// The main entry point for the application.

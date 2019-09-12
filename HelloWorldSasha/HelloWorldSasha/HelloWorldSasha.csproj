@@ -52,7 +52,7 @@
     <Compile Include="HelloWorldForm.Designer.cs">
       <DependentUpon>HelloWorldForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="HelloWorldProgram.cs" />
+    <Compile Include="HelloWorld.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="HelloWorldForm.resx">
       <DependentUpon>HelloWorldForm.cs</DependentUpon>

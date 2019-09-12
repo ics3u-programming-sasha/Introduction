@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerAreaVolSashaM", "PerAreaVolSashaM\PerAreaVolSashaM.csproj", "{B626ED43-8191-4E22-BC13-C706DBB2E559}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerAreaVolSashaM", "PerAreaVolSashaM\PerAreaVolSashaM.csproj", "{1A1E1C09-8BC9-4417-B126-0A04D1F38DAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B626ED43-8191-4E22-BC13-C706DBB2E559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B626ED43-8191-4E22-BC13-C706DBB2E559}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B626ED43-8191-4E22-BC13-C706DBB2E559}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B626ED43-8191-4E22-BC13-C706DBB2E559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A1E1C09-8BC9-4417-B126-0A04D1F38DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1E1C09-8BC9-4417-B126-0A04D1F38DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1E1C09-8BC9-4417-B126-0A04D1F38DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1E1C09-8BC9-4417-B126-0A04D1F38DAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {470DC2F5-44EE-491A-8EF5-75BC47B6C90B}
+		SolutionGuid = {8BEAEA4C-5CF3-4048-9083-1FB313F569D9}
 	EndGlobalSection
 EndGlobal
