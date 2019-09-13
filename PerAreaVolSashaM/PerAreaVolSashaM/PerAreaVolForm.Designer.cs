@@ -58,24 +58,27 @@
             // 
             // btnQPerimeter
             // 
+            this.btnQPerimeter.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnQPerimeter.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
             this.btnQPerimeter.Location = new System.Drawing.Point(110, 54);
             this.btnQPerimeter.Name = "btnQPerimeter";
             this.btnQPerimeter.Size = new System.Drawing.Size(278, 94);
             this.btnQPerimeter.TabIndex = 2;
             this.btnQPerimeter.Text = "Calculate the perimeter of a rectangle with a length of 5cm and a width of 8cm.";
-            this.btnQPerimeter.UseVisualStyleBackColor = true;
+            this.btnQPerimeter.UseVisualStyleBackColor = false;
             this.btnQPerimeter.Click += new System.EventHandler(this.BtnQPerimeter_Click);
             // 
             // btnQArea
             // 
+            this.btnQArea.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnQArea.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
+            this.btnQArea.ForeColor = System.Drawing.Color.Black;
             this.btnQArea.Location = new System.Drawing.Point(110, 180);
             this.btnQArea.Name = "btnQArea";
             this.btnQArea.Size = new System.Drawing.Size(278, 98);
             this.btnQArea.TabIndex = 3;
             this.btnQArea.Text = "Calculate the area of a circle with a radius of 7cm.";
-            this.btnQArea.UseVisualStyleBackColor = true;
+            this.btnQArea.UseVisualStyleBackColor = false;
             this.btnQArea.Click += new System.EventHandler(this.BtnQArea_Click);
             // 
             // lblAArea
@@ -90,13 +93,14 @@
             // 
             // btnQVolume
             // 
+            this.btnQVolume.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnQVolume.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
             this.btnQVolume.Location = new System.Drawing.Point(110, 310);
             this.btnQVolume.Name = "btnQVolume";
             this.btnQVolume.Size = new System.Drawing.Size(278, 98);
             this.btnQVolume.TabIndex = 5;
             this.btnQVolume.Text = "Calculate the volume of a sphere with a radius of 4cm.";
-            this.btnQVolume.UseVisualStyleBackColor = true;
+            this.btnQVolume.UseVisualStyleBackColor = false;
             this.btnQVolume.Click += new System.EventHandler(this.BtnQVolume_Click_1);
             // 
             // lblAVolume
@@ -113,6 +117,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             this.ClientSize = new System.Drawing.Size(804, 450);
             this.Controls.Add(this.lblAVolume);
             this.Controls.Add(this.btnQVolume);
